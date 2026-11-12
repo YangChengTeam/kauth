@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_title">Enter account details</string>
+    <string name="setup_back">Back</string>
+    <string name="setup_account_name">Account name</string>
+    <string name="setup_key">Your key</string>
+    <string name="setup_key_invalid">This key isn\'t valid. Check it and try again.</string>
+    <string name="setup_key_type">Type of key</string>
+    <string name="setup_time_based">Time based</string>
+    <string name="setup_counter_based">Counter based</string>
+    <string name="setup_add">Add</string>
+</resources>

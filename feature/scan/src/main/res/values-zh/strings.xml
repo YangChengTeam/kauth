@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scan_back">返回</string>
+    <string name="scan_hint">将二维码放入框内</string>
+    <string name="scan_invalid">此二维码无法用于设置两步验证</string>
+    <string name="scan_migration_progress">已导入 %1$d / %2$d 个二维码，请继续扫描下一个</string>
+    <string name="scan_permission_title">需要相机权限才能扫描二维码</string>
+    <string name="scan_permission_body">请在“设置”中允许使用相机，或改为输入设置密钥。</string>
+    <string name="scan_open_settings">打开设置</string>
+    <string name="scan_enter_key">输入设置密钥</string>
+</resources>

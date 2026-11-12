@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scan_back">Back</string>
+    <string name="scan_hint">Place the QR code within the frame</string>
+    <string name="scan_invalid">This QR code can\'t be used to set up 2-step verification</string>
+    <string name="scan_migration_progress">Imported %1$d of %2$d codes. Scan the next one</string>
+    <string name="scan_permission_title">Camera access is needed to scan QR codes</string>
+    <string name="scan_permission_body">Allow camera access in Settings, or enter the setup key instead.</string>
+    <string name="scan_open_settings">Open Settings</string>
+    <string name="scan_enter_key">Enter a setup key</string>
+</resources>

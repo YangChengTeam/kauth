@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">KAuth</string>
+    <!-- The character carved on the seal: 安, "at peace, secure". Part of the artwork in every language. -->
+    <string name="launch_seal" translatable="false">安</string>
+    <string name="launch_tagline">Still as the hills</string>
+</resources>

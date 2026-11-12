@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_search_hint">Search…</string>
+    <string name="home_search_clear">Clear search</string>
+    <string name="home_no_results">No codes match your search</string>
+    <string name="home_empty_title">Set up your first account</string>
+    <string name="home_empty_body">Scan a QR code or enter a setup key. No sign-up needed: everything stays on this device.</string>
+    <string name="home_add_code">Add a code</string>
+    <string name="home_close_menu">Close</string>
+    <string name="home_scan_qr">Scan a QR code</string>
+    <string name="home_enter_key">Enter a setup key</string>
+    <string name="home_code_copied">Code copied</string>
+    <string name="home_next_code">Get next code</string>
+    <string name="home_edit">Edit</string>
+    <string name="home_delete">Delete</string>
+    <string name="home_cancel">Cancel</string>
+    <string name="home_save">Save</string>
+    <string name="home_edit_title">Edit account</string>
+    <string name="home_label_issuer">Service</string>
+    <string name="home_label_name">Account name</string>
+    <string name="home_delete_title">Remove this account?</string>
+    <string name="home_delete_body">Removing %1$s from this app won\'t turn off 2-step verification for it. Before you remove it, make sure you have another way to sign in.</string>
+    <string name="home_exit_title">Exit the app?</string>
+    <string name="home_exit">Exit</string>
+    <string name="home_backup">Back up and restore</string>
+    <string name="home_backup_title">Move accounts</string>
+    <string name="home_backup_body">Nothing is stored online. To move your accounts to another phone, export them to a file, keep it safe, then import it there.</string>
+    <string name="home_backup_export">Export to a file</string>
+    <string name="home_backup_import">Import from a file</string>
+    <string name="home_backup_export_action">Choose where to save</string>
+    <string name="home_backup_import_action">Import</string>
+    <string name="home_restore_backup">Import from a backup file</string>
+    <string name="home_export_title">Lock the backup</string>
+    <string name="home_export_body">The file holds your secret keys, so it\'s encrypted with this password. Without it the backup can\'t be opened, and it can\'t be recovered.</string>
+    <string name="home_import_title">Unlock the backup</string>
+    <string name="home_import_body">Enter the password this backup was exported with. Accounts you already have are skipped.</string>
+    <string name="home_password">Password</string>
+    <string name="home_password_repeat">Repeat password</string>
+    <string name="home_password_hint">At least %1$d characters</string>
+    <string name="home_password_mismatch">Passwords don\'t match</string>
+    <string name="home_password_wrong">Wrong password</string>
+    <plurals name="home_exported">
+        <item quantity="one">Exported %1$d account</item>
+        <item quantity="other">Exported %1$d accounts</item>
+    </plurals>
+    <plurals name="home_imported">
+        <item quantity="one">Imported %1$d account</item>
+        <item quantity="other">Imported %1$d accounts</item>
+    </plurals>
+    <string name="home_imported_skipped">%1$s, %2$d already here</string>
+    <string name="home_import_invalid">That file isn\'t a backup this app can read</string>
+    <string name="home_export_failed">Couldn\'t save the backup</string>
+    <string name="home_exporting">Encrypting and saving the backup…</string>
+    <plurals name="home_imported_none">
+        <item quantity="one">That account is already here</item>
+        <item quantity="other">All %1$d accounts are already here</item>
+    </plurals>
+</resources>
